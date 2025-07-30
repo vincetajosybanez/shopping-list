@@ -1,5 +1,5 @@
 # Shopping List
 
-Simple shopping list app from my Modern JS from the Begining course.
+Simple shopping list app using vanilla JS and localStorage for persisting data locally
 
 [View Shopping List App](https://vince-shopping-list.netlify.app/)
